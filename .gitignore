@@ -42,6 +42,7 @@ xcuserdata/
 *.la
 *.a
 
+
 # xml
 *.*.bak
 
@@ -70,3 +71,4 @@ apps/dev/translators/lib
 #gui setting
 _settings.xml
 #.gitignore#
+
