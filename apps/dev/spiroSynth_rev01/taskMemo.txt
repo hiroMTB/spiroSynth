@@ -1,0 +1,59 @@
+/*
+ * task memo
+ 
+
+DONE: 1. base sphere
+DONE: 2. epi sphere bete
+DONE: 3. grobal UI, mouse move, zoom
+DONE 4. epi sphere fix
+DONE 5. epi sphere UI (r, freq, axis(x,y))
+6. particle sphere
+7. particle sphere UI
+8. grobal UI (change sphere, save camera, BG color)
+9. external sound input
+
+*/
+
+
+/*
+
+5. epi sphere UI detail
+
+Å° param for node:
+
++length
++freq
++dot on/off
++color
+axis(x,y)
+dotPointSize
+
+
+Å° control:
+auto rotation on/off
+
+
+Å° touchOSC
+iPad - adhoc OK
+android - can not establish adhoc connection
+
+
+Å° touchOsc Layout
+
+global
+bg color
+random bg color
+change sphere
+add sphere
+save camera
+all mute
+
+
+*/
+
+
+
+Å° MOVING task from VS2008
+	1. conflict ofVec2f, 3f
+	2. conflict ofxEasyCam, completly different
+	3. 

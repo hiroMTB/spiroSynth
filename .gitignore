@@ -1,0 +1,72 @@
+# ignore all
+# check another .ignore file in addons folder
+
+libs
+customAddons
+
+apps/addonsExamples/*
+apps/examples/*
+
+addons/*
+!addons/ofxConsole
+
+# Xcode Project
+xcuserdata/
+*.entitlements
+
+#OSX
+.DS_Store
+*.swp
+*~.nib
+# Thumbnails
+._*
+
+*~
+.svn/
+.DS_Store
+*.wav
+*.app/
+
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# xml
+*.*.bak
+
+#emacs
+*.*~
+
+#movie file
+*.mov
+*.avi
+*.mpeg
+
+
+#image file
+*.png
+*.jpg
+*.jpeg
+*.tiff
+*.tif
+*.gif
+
+#pinky
+apps/dev/translators/lib
+
+
+
+#gui setting
+_settings.xml
+#.gitignore#
